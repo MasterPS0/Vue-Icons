@@ -1,0 +1,17 @@
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\bin\Debug\net8.0-windows\Vue Icons.exe
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\bin\Debug\net8.0-windows\Vue Icons.deps.json
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\bin\Debug\net8.0-windows\Vue Icons.runtimeconfig.json
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\bin\Debug\net8.0-windows\Vue Icons.dll
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\bin\Debug\net8.0-windows\Vue Icons.pdb
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\obj\Debug\net8.0-windows\Vue_Icons.Form1.resources
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\obj\Debug\net8.0-windows\Vue_Icons.Properties.Resources.resources
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\obj\Debug\net8.0-windows\Vue Icons.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\obj\Debug\net8.0-windows\Vue Icons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\obj\Debug\net8.0-windows\Vue Icons.AssemblyInfoInputs.cache
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\obj\Debug\net8.0-windows\Vue Icons.AssemblyInfo.cs
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\obj\Debug\net8.0-windows\Vue Icons.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\obj\Debug\net8.0-windows\Vue Icons.dll
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\obj\Debug\net8.0-windows\refint\Vue Icons.dll
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\obj\Debug\net8.0-windows\Vue Icons.pdb
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\obj\Debug\net8.0-windows\Vue Icons.genruntimeconfig.cache
+C:\Users\Master\source\repos\Vue Icons\Vue Icons\obj\Debug\net8.0-windows\ref\Vue Icons.dll
