@@ -5,9 +5,7 @@
         public Form1()
         {
             InitializeComponent();
-
-            // تفعيل DPI Scaling
-            // يمنع الـ WinForms من إعادة القياس تلقائيًا
+            
             this.AutoScaleMode = AutoScaleMode.None;
         }
 
@@ -142,3 +140,4 @@
         }
     }
 }
+
